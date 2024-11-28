@@ -111,7 +111,7 @@ This document provides a step-by-step guide to setting up Keycloak with custom S
 
 * A stable network connection for downloading packages or tools unless an offline setup is planned.
 
-  ## **1.3: Software & Tools:** {#1.3:-software-&-tools:}
+  ## **1.3: Software and Tools:** {#1.3:-software-&-tools:}
 
 * Podman or Docker: For containerized deployments.  
 * Keycloak: The authentication and authorization tool.  
